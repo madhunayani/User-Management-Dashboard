@@ -103,12 +103,3 @@ The backend provides the following RESTful API endpoints to manage users.
 
 ***
 
-## 📸 Screenshots
-
-### Modern Form for Adding/Editing Users
-
-*(Suggestion: Replace this with a screenshot of your beautiful form!)*
-
-***
-
-This project was built following the guidelines provided in the **Forty4 Tech FullStack Assignment**. It successfully implements all functional requirements while delivering a superior user experience.
