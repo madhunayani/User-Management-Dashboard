@@ -4,8 +4,6 @@
 Welcome to the Stellar User Management Dashboard, a full-stack web application built from the ground up to provide a seamless and visually stunning experience for managing user data. This project goes beyond a simple CRUD application by wrapping powerful functionality in a modern, futuristic interface complete with gradient backgrounds and smooth animations.
 
 
-*(Suggestion: Replace this with a screenshot or a GIF of your final application!)*
-
 ***
 
 ## 🚀 Core Features
